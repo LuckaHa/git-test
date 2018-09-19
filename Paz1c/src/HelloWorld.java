@@ -11,6 +11,11 @@ public class HelloWorld {
 		}
 		
 		// nebezpecny komentar 1 
+		
+				System.out.println("collaborator strikes again");
+		System.out.println("collaborator strikes again");
+		System.out.println("collaborator strikes again");
+		System.out.println("collaborator strikes again");
 	}
 
 }
