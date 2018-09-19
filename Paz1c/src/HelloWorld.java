@@ -4,6 +4,7 @@ public class HelloWorld {
 			
 		System.out.println("Git je super.");
 		// komentar
+		//kometar Jakub
 	}
 
 }
